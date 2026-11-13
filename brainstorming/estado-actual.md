@@ -1,6 +1,6 @@
 # Estado actual
 
-Última actualización: viernes 13 nov 2026, 18:15.
+Última actualización: viernes 13 nov 2026, 18:50.
 
 ## En una frase
 Todavía no hay idea final. Hay dos candidatas y cinco piezas que se mantienen en cualquiera de las dos. Hoy no se construye nada: solo se elige idea.
@@ -30,9 +30,26 @@ Antes de enseñar cada dato, la app pide a la familia que lo adivine y luego rev
 - La diferencia entre lo que creían y lo que dice el plan va a la ficha del asesor.
 - El pitch se abre haciendo adivinar al jurado en directo.
 
-## Preguntas abiertas para el equipo
-1. ¿Qué os hizo dudar de la llamada? ¿Contestaríais vosotros esa llamada?
-2. ¿Queréis un personaje con voz, o que la familia sea la protagonista?
-3. ¿Michael como caso principal y 20 segundos de los Weah, o los Weah como principal?
-4. ¿Qué preferís en el escenario: un móvil sonando o el jurado adivinando un número?
-5. ¿Hay alguna idea vuestra que aún no esté aquí?
+## Idea C: la combinación que recomienda Claude tras la investigación (13 nov, 18:50)
+Nombre provisional: "Tú primero". Junta la idea B con lo mejor de lo investigado ([investigacion-profunda.md](investigacion-profunda.md)).
+
+1. **Cartas antes que cifras.** Cada persona elige en privado, en su móvil, qué le quita el sueño y qué quiere proteger. En pareja, ninguno ve lo del otro hasta que los dos contestan.
+2. **Adivina y revela, en visual.** Tres a cinco datos del plan, con un deslizador. Se revela el dato, la distancia con su intuición y una frase que lo traduce a su vida. Sin "correcto" ni "incorrecto", y siempre con el botón "prefiero verlo directamente".
+3. **Malas noticias con permiso.** Primero "¿quieres verlo ahora?", luego una frase, y la salida en la misma pantalla.
+4. **Un solo paso, con día y hora**, que va al calendario. Nada mueve dinero.
+5. **Aparcar preguntas.** Un toque guarda la duda para el asesor.
+6. **Ficha para el asesor**: qué le preocupa a cada uno, qué creían frente a lo que dice el plan, en qué no coinciden, sus preguntas y el paso elegido.
+7. **Si hay voz, nunca dice cifras.** Las cifras van escritas en pantalla y salen de los datos por código.
+
+Nota estimada: 92. Fugas: mejora el recuerdo pero no hay prueba de que mueva a actuar (por eso el paso con fecha); con una sola persona pierde la parte de pareja; un desacuerdo sin moderador puede acabar en discusión.
+
+## Objeciones del equipo a la idea A (13 nov)
+- A Dani no le convence que le hable un yo del futuro: puede resultar raro de ver.
+- Hugo duda de la fiabilidad de las cifras dichas en una llamada.
+- La investigación lo apoya: el efecto medido del yo futuro es pequeño y BBVA ya lo hizo en España.
+
+## Preguntas abiertas para el equipo (actualizadas)
+1. ¿Aceptáis la idea C como base para la entrega de hoy?
+2. ¿Caso principal: los Weah (pareja) con 20 segundos de Michael, o al revés?
+3. ¿Con voz que narra sin decir cifras, o sin voz?
+4. ¿Qué nombre le ponemos?

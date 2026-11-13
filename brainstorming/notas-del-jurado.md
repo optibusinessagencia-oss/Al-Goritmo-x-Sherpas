@@ -10,7 +10,9 @@ Rúbrica: Captivating 20 · Understanding 20 · Motivación a actuar 20 · Perso
 | Jarvis con voz que guía de A a B | 50 |
 | Expedición a la cima con un sherpa | 58 |
 | La llamada (yo del futuro de 58 años) | 77 |
-| Tú primero | 90 |
+| Tú primero (solo adivinar y revelar) | 88 |
+| Tú primero + cada uno por su lado + ficha del asesor | 92 |
+| El plan en 7 tarjetas tipo historias | 78 |
 
 ## Comparativa de las dos candidatas
 | Criterio | La llamada | Tú primero |
@@ -42,3 +44,9 @@ Rúbrica: Captivating 20 · Understanding 20 · Motivación a actuar 20 · Perso
 - **Para el experto:** elegir nivel al empezar ("explícamelo fácil" o "dame los números").
 - **Prueba real:** probarlo con 5 personas sin idea de finanzas y decir el resultado en el pitch.
 - **El pitch dura 2 minutos:** no cabe todo. Hay que elegir un momento fuerte y un cierre.
+
+## Ideas de la investigación descartadas o aparcadas (13 nov)
+- **Juego de decisiones tipo "un año en tres minutos":** el plan no trae escenarios alternativos, habría que inventar cifras.
+- **"Tu plan en un año malo":** igual, depende de escenarios que no hemos visto en los datos. Se puede preguntar a los mentores.
+- **El plan en tarjetas tipo historias, como idea principal:** es pasivo y se parece a la visita guiada. Sirve como formato, no como idea.
+- **Compararse con otras familias:** el plan no trae datos de otros.

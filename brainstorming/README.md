@@ -7,6 +7,7 @@ Aquí guardamos el resumen de lo que vamos hablando con Claude, para que todo el
 | [estado-actual.md](estado-actual.md) | **Empieza por aquí.** Dónde estamos, qué ideas hay sobre la mesa y qué falta decidir |
 | [decisiones.md](decisiones.md) | Lo que ya está decidido y lo que se ha descartado, con fecha y motivo |
 | [notas-del-jurado.md](notas-del-jurado.md) | Cada idea puntuada con la rúbrica del reto y sus puntos de fuga |
+| [investigacion-profunda.md](investigacion-profunda.md) | Búsqueda en la web del 13 nov: qué existe ya y qué dice la evidencia, con enlaces |
 | [investigacion-internacional.md](investigacion-internacional.md) | Cómo explican el dinero en otros países (14 referentes) |
 | [psicologia-enganche.md](psicologia-enganche.md) | Ideas de psicología y enganche |
 
