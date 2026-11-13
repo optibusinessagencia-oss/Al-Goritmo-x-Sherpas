@@ -4,6 +4,7 @@ Aquí guardamos el resumen de lo que vamos hablando con Claude, para que todo el
 
 | Archivo | Qué contiene |
 |---|---|
+| [idea.md](idea.md) | **La idea actual, a fondo.** Cómo funciona paso a paso, qué hemos descartado dentro de ella y qué falta decidir. Base para el MVP |
 | [estado-actual.md](estado-actual.md) | **Empieza por aquí.** Dónde estamos, qué ideas hay sobre la mesa y qué falta decidir |
 | [decisiones.md](decisiones.md) | Lo que ya está decidido y lo que se ha descartado, con fecha y motivo |
 | [notas-del-jurado.md](notas-del-jurado.md) | Cada idea puntuada con la rúbrica del reto y sus puntos de fuga |
