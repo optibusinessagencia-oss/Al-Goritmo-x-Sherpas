@@ -1,5 +1,8 @@
 # Estado actual
 
+> **Actualización 13 nov, 19:45.** Para la entrega del viernes el equipo ha decidido: la idea aún no tiene nombre ("Tú primero" es solo una etiqueta de estas notas), se quita la apertura "¿qué te quita el sueño?" y se quita el modo pareja por ahora. Lo que sigue en pie es el bucle de adivinar, revelar y solución con Michael, y un único paso con día y hora. El resto de este archivo es anterior a esa decisión.
+
+
 Última actualización: viernes 13 nov 2026, 20:05.
 
 ## En una frase
