@@ -1,6 +1,6 @@
 # Estado actual
 
-Última actualización: viernes 13 nov 2026, 18:50.
+Última actualización: viernes 13 nov 2026, 20:05.
 
 ## En una frase
 Todavía no hay idea final. Hay dos candidatas y cinco piezas que se mantienen en cualquiera de las dos. Hoy no se construye nada: solo se elige idea.
@@ -47,6 +47,29 @@ Nota estimada: 92. Fugas: mejora el recuerdo pero no hay prueba de que mueva a a
 - A Dani no le convence que le hable un yo del futuro: puede resultar raro de ver.
 - Hugo duda de la fiabilidad de las cifras dichas en una llamada.
 - La investigación lo apoya: el efecto medido del yo futuro es pequeño y BBVA ya lo hizo en España.
+
+## Flujo elegido para probar: híbrido (13 nov, 20:00)
+El equipo construyó el ciclo **pregunta, estimación con deslizador, revelación y solución**. La IA elige qué preguntar según el análisis de cada familia; las cifras son siempre las del plan de Sherpas.
+
+Se compararon dos flujos: bloques con la solución al momento, o formulario con un mapa mental al final. Claude recomienda un híbrido:
+- Tres o cuatro preguntas con barra de progreso. La primera, con buena noticia.
+- Tras cada revelación, una sola frase de solución. El resto, plegado.
+- Pantalla final con una lista corta: un paso marcado como "empieza por aquí" y selector de día y hora.
+- El mapa completo queda como vista secundaria.
+- La ficha del asesor recoge lo que la persona creía, sus dudas y el paso elegido.
+
+Hay una maqueta para tocar con el caso de Michael Carter (pedid el enlace a Hugo, es privado).
+
+Fugas nuevas vistas al montarla:
+1. El plan repite soluciones: colchón y casa llevan a la misma recomendación. Elegir preguntas con soluciones distintas.
+2. El rango y la posición inicial del deslizador dan pistas.
+3. La pregunta de buena noticia no tiene solución: va como "esto ya lo haces bien".
+4. Quien acierta no tiene sorpresa: hace falta un guion para ese caso.
+5. Las frases en vivo bajo el deslizador son cálculos nuestros: hay que marcarlas.
+6. El paso de la casa depende de tener asesor: hace falta versión sin asesor.
+7. Al asesor le llega "creía 95, el plan dice 85": avisar bien y dejar no compartirlo.
+8. El recorrido dura unos tres minutos y el pitch dos.
+9. Con Michael solo no se ve la parte de pareja.
 
 ## Preguntas abiertas para el equipo (actualizadas)
 1. ¿Aceptáis la idea C como base para la entrega de hoy?
